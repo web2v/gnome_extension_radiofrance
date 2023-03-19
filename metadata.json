@@ -2,6 +2,7 @@
   "uuid": "radiofrance@david-hc",
   "name": "Radio France",
   "description": "Écouter Radio France depuis le panneau supérieur",
-  "shell-version": ["3.36", "3.38", "40", "41"]
+  "shell-version": ["3.36", "3.38", "40", "41"],
+  "url":"https://github.com/web2v/gnome_extension_radiofrance/blob/main/README.md"
 }
 
